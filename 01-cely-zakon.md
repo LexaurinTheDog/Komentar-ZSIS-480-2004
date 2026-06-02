@@ -241,6 +241,13 @@ Imunita zaniká, je-li splněna **kterákoliv** z následujících podmínek:
 
 § 5 je **nejdůležitějším ustanovením ZSIS** z hlediska denní praxe. Transponuje **čl. 14 e-Commerce směrnice** (a odpovídá **čl. 6 DSA**) — institut **hosting**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — 8. 6. 2022, kat. A
+  > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení…"
+- *NS* [23 Cdo 2793/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/833F4A8DFC84436EC125879F001E37FA?openDocument) — 31. 8. 2021, kat. A
+  > „Právní úprava omezení odpovědnosti poskytovatele služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) podle § 5 odst. 1 zákona o některých službách informační společnosti se neprosadí při posouzení takových soukromých závazků z deliktu nekalé soutěže, jež nevyplývají z odpovědnosti tohoto poskytovatele za obsah informace uložené na žádost uživatele (resp. za zásah do soukromého práva k nehmotnému předmětu dotčenému touto informací), i kdyby tyto závazky s poskytováním (se způsobem poskytování) této služby hospodářsky souvisely. Vyplácí-li poskytovatel této služby provozované v podobě, jež umožňuje uživatelům prostřednictvím jimi ukládaných informací v soutěžně významném rozsahu ohrožovat či porušovat práva duševního vlastnictví, těmto uživatelům odměnu, jejíž výše je závislá na počtu či rozsahu stahování jimi…"
+
 #### Kdo je adresátem
 
 Poskytovatelé **ukládání obsahu na žádost uživatele** — extrémně široký okruh:
