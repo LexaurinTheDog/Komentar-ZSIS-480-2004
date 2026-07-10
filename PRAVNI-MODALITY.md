@@ -1,4 +1,4 @@
-# Právní modality v předpisu zákonu č. 480/2004 Sb., o službách informační společnosti (ZSIS)
+# Právní modality v předpisu zákon č. 480/2004 Sb., o službách informační společnosti (ZSIS)
 
 > Právní modality jsou základní stavební způsoby, jimiž norma spojuje s určitým jednáním normativní následek: přikazuje, zakazuje, dovoluje, zmocňuje, přiznává oprávnění a ukládá povinnost, případně stabilizuje skutkový stav domněnkou či fikcí. Jejich rozbor je u zákona č. 480/2004 Sb. mimořádně užitečný proto, že jde o předpis, který kombinuje **soukromoprávní režim odpovědnosti** poskytovatelů (tzv. safe harbour v § 3 až 6), **veřejnoprávní zákazy a příkazy** v regulaci obchodních sdělení (§ 7 a § 8), **kompetenční a procesní normy** (§ 9, § 10, § 10b) i **sankční a fiskální ustanovení** (§ 11 až § 12). Deontický charakter jednotlivých vět tak předurčuje, komu co zákon ukládá, koho k čemu opravňuje a kdy nastává imunita či naopak odpovědnost.
 >

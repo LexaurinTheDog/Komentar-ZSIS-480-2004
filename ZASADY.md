@@ -1,6 +1,6 @@
-# Zásady — zákonu č. 480/2004 Sb., o službách informační společnosti (ZSIS)
+# Zásady — zákon č. 480/2004 Sb., o službách informační společnosti (ZSIS)
 
-> Systematický výklad zásad, na nichž stojí zákonu č. 480/2004 Sb., o službách informační společnosti (ZSIS). Judikatorní vymezení každé zásady je extrahováno VÝHRADNĚ z místně dostupné judikatury (lokální kopie rozhodnutí NS, ÚS a NSS); karty citovaných rozhodnutí jsou ve složce [judikatura/](judikatura/README.md).
+> Systematický výklad zásad, na nichž stojí zákon č. 480/2004 Sb., o službách informační společnosti (ZSIS). Judikatorní vymezení každé zásady je extrahováno VÝHRADNĚ z místně dostupné judikatury (lokální kopie rozhodnutí NS, ÚS a NSS); karty citovaných rozhodnutí jsou ve složce [judikatura/](judikatura/README.md).
 
 ## Metoda
 
