@@ -13,3 +13,11 @@
 
 ## Vazby
 e-Commerce 2000/31/ES, ePrivacy 2002/58/ES, [GDPR 110/2019](/home/vojtech/Komentar-GDPR-110-2019/), DSA 2022/2065.
+
+## Zásady a právní modality
+
+Doprovodné systematické dokumenty:
+
+- [ZASADY.md](ZASADY.md) — **zásady** tohoto předpisu: soustava zásad s judikatorním vymezením extrahovaným výhradně z místně dostupné judikatury (NS, ÚS, NSS).
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — **právní modality**: příkazy, zákazy, dovolení, zmocnění, oprávnění a povinnosti, domněnky a fikce — klasifikace na doslovném znění předpisu.
+
