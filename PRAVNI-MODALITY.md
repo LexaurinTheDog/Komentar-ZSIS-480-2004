@@ -4,6 +4,12 @@
 >
 > **Metoda.** Klasifikace níže je provedena výhradně na doslovném znění citovaném v tomto repu (blockquoty kapitol a dodaná strojově ověřená klasifikace). Judikatorní ilustrace pocházejí výhradně z místních zdrojů — složka [judikatura/](judikatura/README.md); žádná spisová značka ani citát nepochází odjinud. Fragmenty znění i soudní citáty jsou přeneseny doslova. K provázání modalit s hodnotovými východisky předpisu srov. [ZASADY.md](ZASADY.md).
 
+<!-- LOCAL-OFFICIAL-SOURCE-LINKS -->
+
+**Oficiální znění komentovaného předpisu:** [480/2004 Sb.](https://e-sbirka.gov.cz/sb/2004/480)
+
+> Obsahový výklad zůstává založen výhradně na místních pramenech. Veřejné odkazy slouží k ověření totožnosti a dostupného znění předpisu nebo rozhodnutí; nejsou zdrojem nových právních tezí.
+
 ## Teorie právních modalit
 
 Nauka rozlišuje **objektivní (deontické) modality** — vlastnosti normy z pohledu jejího adresáta jako obecného pravidla — a **subjektivní modality** — právní postavení konkrétního subjektu v právním vztahu.
@@ -22,9 +28,9 @@ Zvláštní povahu má příkaz § 10b odst. 1 adresovaný **Českému telekomun
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 8 odst. 3 | musí obsahovat | „Obchodní sdělení osob vykonávajících regulované činnosti musí obsahovat název profesní samosprávné komory zřízené zákonem, u níž je osoba vykonávající regulovanou činnost zapsána" | Ukládá regulovaným osobám povinnost uvést v obchodním sdělení profesní komoru a odkaz na profesní pravidla. |
-| § 9 odst. 4 | informuje … a požádá | „informuje o tom Komisi Evropských společenství (dále jen „Komise") a požádá členský stát Evropské unie, v němž je poskytovatel služby usazen, o přijetí takových opatření" | Před opatřením vůči zahraničnímu poskytovateli EU musí orgán informovat Komisi a požádat stát usazení o přijetí opatření. |
-| § 10b odst. 1 | vždy upozorní … a vyzve | „vždy upozorní tohoto poskytovatele na porušení nařízení a vyzve jej k nápravě ve lhůtě přiměřené charakteru porušené povinnosti, která nesmí být kratší než 15 dnů ode dne doručení upozornění." | U méně závažných porušení P2B je ČTÚ povinen poskytovatele nejprve upozornit a vyzvat k nápravě, teprve poté sankcionovat. |
+| [§ 8 odst. 3](https://e-sbirka.gov.cz/sb/2004/480#par_8) | musí obsahovat | „Obchodní sdělení osob vykonávajících regulované činnosti musí obsahovat název profesní samosprávné komory zřízené zákonem, u níž je osoba vykonávající regulovanou činnost zapsána" | Ukládá regulovaným osobám povinnost uvést v obchodním sdělení profesní komoru a odkaz na profesní pravidla. |
+| [§ 9 odst. 4](https://e-sbirka.gov.cz/sb/2004/480#par_9) | informuje … a požádá | „informuje o tom Komisi Evropských společenství (dále jen „Komise") a požádá členský stát Evropské unie, v němž je poskytovatel služby usazen, o přijetí takových opatření" | Před opatřením vůči zahraničnímu poskytovateli EU musí orgán informovat Komisi a požádat stát usazení o přijetí opatření. |
+| [§ 10b odst. 1](https://e-sbirka.gov.cz/sb/2004/480#par_10b) | vždy upozorní … a vyzve | „vždy upozorní tohoto poskytovatele na porušení nařízení a vyzve jej k nápravě ve lhůtě přiměřené charakteru porušené povinnosti, která nesmí být kratší než 15 dnů ode dne doručení upozornění." | U méně závažných porušení P2B je ČTÚ povinen poskytovatele nejprve upozornit a vyzvat k nápravě, teprve poté sankcionovat. |
 
 ## Zákaz
 
@@ -36,12 +42,12 @@ Soudní praxe potvrzuje, že náležitosti obchodního sdělení nejsou samoúč
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 7 odst. 4 | je zakázáno | „Zaslání elektronické pošty za účelem šíření obchodního sdělení je zakázáno, pokud" | Zakazuje zaslat obchodní sdělení, které není zřetelně označeno, skrývá totožnost odesílatele nebo nemá platnou odhlašovací adresu. |
-| § 11 odst. 1 | dopustí se přestupku tím, že | „Fyzická osoba se dopustí přestupku tím, že bez souhlasu adresáta hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení." | Zakládá skutkovou podstatu přestupku hromadného či opakovaného šíření obchodních sdělení bez souhlasu adresáta. |
+| [§ 7 odst. 4](https://e-sbirka.gov.cz/sb/2004/480#par_7) | je zakázáno | „Zaslání elektronické pošty za účelem šíření obchodního sdělení je zakázáno, pokud" | Zakazuje zaslat obchodní sdělení, které není zřetelně označeno, skrývá totožnost odesílatele nebo nemá platnou odhlašovací adresu. |
+| [§ 11 odst. 1](https://e-sbirka.gov.cz/sb/2004/480#par_11) | dopustí se přestupku tím, že | „Fyzická osoba se dopustí přestupku tím, že bez souhlasu adresáta hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení." | Zakládá skutkovou podstatu přestupku hromadného či opakovaného šíření obchodních sdělení bez souhlasu adresáta. |
 
-- *NSS* [15 A 95/2024 - 63](judikatura/NSS-15-A-95-2024-63.md) — rozsudek, 15. 4. 2025
+- *NSS* [15 A 95/2024 - 63](judikatura/NSS-15-A-95-2024-63.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741788)) — rozsudek, 15. 4. 2025
   > „Informace o totožnosti odesílatele není samoúčelná a její význam je nutno spatřovat zejména v tom, aby adresáti obchodních sdělení mohli uplatnit svá práva, resp. aby věděli, který subjekt jim obchodní sdělení zasílá"
-- *NSS* [5 Ca 286/2008 - 82](judikatura/NSS-5-Ca-286-2008-82.md) — rozsudek, 18. 3. 2011
+- *NSS* [5 Ca 286/2008 - 82](judikatura/NSS-5-Ca-286-2008-82.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/566199)) — rozsudek, 18. 3. 2011
   > „porušil ustanovení § 7 odst. 2 zákona č. 480/2004 Sb. a spáchal správní delikt podle § 11 písm. a) a c) uvedeného zákona"
 
 ## Dovolení
@@ -56,13 +62,13 @@ Judikatura opakovaně zdůrazňuje, že safe harbour podle § 5 a § 6 se týká
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 6 | nejsou povinni | „Poskytovatelé služeb uvedení v § 3 až 5 nejsou povinni" | Poskytovatelé nemají povinnost obecně dohlížet na obsah ani aktivně vyhledávat protiprávnost — protiváha konstruktivní vědomosti dle § 5. |
-| § 7 odst. 2 | lze … využít pouze … kteří k tomu dali předchozí souhlas | „Podrobnosti elektronického kontaktu lze za účelem šíření obchodních sdělení elektronickými prostředky využít pouze ve vztahu k uživatelům, kteří k tomu dali předchozí souhlas." | Zakotvuje princip opt-in: kontakt lze pro obchodní sdělení použít jen vůči tomu, kdo předem udělil souhlas. |
-| § 9 odst. 2 | se nevztahují právní předpisy uvedené v odstavci 1 | „Na poskytovatele služby, který je usazen v jiném členském státě Evropské unie a poskytujícího tuto službu na území České republiky, se nevztahují právní předpisy uvedené v odstavci 1, pokud tento zákon nebo zvláštní právní předpis nestanoví jinak." | Pravidlo země původu: tuzemské předpisy o podmínkách výkonu činnosti se na poskytovatele z jiného státu EU zásadně neuplatní. |
+| [§ 6](https://e-sbirka.gov.cz/sb/2004/480#par_6) | nejsou povinni | „Poskytovatelé služeb uvedení v § 3 až 5 nejsou povinni" | Poskytovatelé nemají povinnost obecně dohlížet na obsah ani aktivně vyhledávat protiprávnost — protiváha konstruktivní vědomosti dle § 5. |
+| [§ 7 odst. 2](https://e-sbirka.gov.cz/sb/2004/480#par_7) | lze … využít pouze … kteří k tomu dali předchozí souhlas | „Podrobnosti elektronického kontaktu lze za účelem šíření obchodních sdělení elektronickými prostředky využít pouze ve vztahu k uživatelům, kteří k tomu dali předchozí souhlas." | Zakotvuje princip opt-in: kontakt lze pro obchodní sdělení použít jen vůči tomu, kdo předem udělil souhlas. |
+| [§ 9 odst. 2](https://e-sbirka.gov.cz/sb/2004/480#par_9) | se nevztahují právní předpisy uvedené v odstavci 1 | „Na poskytovatele služby, který je usazen v jiném členském státě Evropské unie a poskytujícího tuto službu na území České republiky, se nevztahují právní předpisy uvedené v odstavci 1, pokud tento zákon nebo zvláštní právní předpis nestanoví jinak." | Pravidlo země původu: tuzemské předpisy o podmínkách výkonu činnosti se na poskytovatele z jiného státu EU zásadně neuplatní. |
 
-- *NSS* [141 A 42/2024 - 53](judikatura/NSS-141-A-42-2024-53.md) — rozsudek, 17. 9. 2025
+- *NSS* [141 A 42/2024 - 53](judikatura/NSS-141-A-42-2024-53.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746451)) — rozsudek, 17. 9. 2025
   > „z § 5 a § 6 zákona o některých službách informační společnosti jednoznačně vyplývá, že se týkají odpovědnosti za protiprávnost obsahu ukládaných informací, nikoli odpovědnosti za věcnou správnost či úplnost informací"
-- *NSS* [10 A 121/2020 - 94](judikatura/NSS-10-A-121-2020-94.md) — rozsudek, 8. 6. 2023
+- *NSS* [10 A 121/2020 - 94](judikatura/NSS-10-A-121-2020-94.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712425)) — rozsudek, 8. 6. 2023
   > „výklad pojmu zákazník byl obviněnou pochopen nesprávně, zcela nad rozsah tohoto pojmu, přičemž ustanovení § 7 odst. 2 zákona č. 480/2004 Sb. by pak při tomto výkladu zcela postrádalo smysl"
 
 ## Zmocnění
@@ -73,7 +79,7 @@ Kompetenční normy se od příkazů liší tím, že samy nepůsobí přímo na
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 10 odst. 1 | orgánem příslušným k výkonu dozoru … je | „Orgánem příslušným k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru") je" | Kompetenční norma určující věcně příslušné dozorové orgány — ÚOOÚ pro obchodní sdělení a profesní komory pro regulované činnosti. |
+| [§ 10 odst. 1](https://e-sbirka.gov.cz/sb/2004/480#par_10) | orgánem příslušným k výkonu dozoru … je | „Orgánem příslušným k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru") je" | Kompetenční norma určující věcně příslušné dozorové orgány — ÚOOÚ pro obchodní sdělení a profesní komory pro regulované činnosti. |
 
 ## Oprávnění a povinnost
 
@@ -85,12 +91,12 @@ Korelativita obou modalit je zřetelná: povinnosti poskytovatele hostingu odpov
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 5 odst. 1 písm. b) | neprodleně neučinil veškeré kroky, které lze po něm požadovat | „dozvěděl-li se prokazatelně o protiprávní povaze obsahu ukládaných informací nebo o protiprávním jednání uživatele a neprodleně neučinil veškeré kroky, které lze po něm požadovat, k odstranění nebo znepřístupnění takovýchto informací." | Poskytovatel hostingu ztrácí imunitu a odpovídá, dozví-li se prokazatelně o protiprávnosti a neprodleně nezakročí. |
-| § 11a | je oprávněn domáhat se … soudní ochrany | „je oprávněn domáhat se jménem svých zákazníků, jejichž práva byla tímto jednáním poškozena, soudní ochrany." | Zvláštní zákonná procesní legitimace poskytovatele domáhat se jménem poškozených zákazníků soudní ochrany proti spamu. |
+| [§ 5 odst. 1 písm. b)](https://e-sbirka.gov.cz/sb/2004/480#par_5) | neprodleně neučinil veškeré kroky, které lze po něm požadovat | „dozvěděl-li se prokazatelně o protiprávní povaze obsahu ukládaných informací nebo o protiprávním jednání uživatele a neprodleně neučinil veškeré kroky, které lze po něm požadovat, k odstranění nebo znepřístupnění takovýchto informací." | Poskytovatel hostingu ztrácí imunitu a odpovídá, dozví-li se prokazatelně o protiprávnosti a neprodleně nezakročí. |
+| [§ 11a](https://e-sbirka.gov.cz/sb/2004/480#par_11a) | je oprávněn domáhat se … soudní ochrany | „je oprávněn domáhat se jménem svých zákazníků, jejichž práva byla tímto jednáním poškozena, soudní ochrany." | Zvláštní zákonná procesní legitimace poskytovatele domáhat se jménem poškozených zákazníků soudní ochrany proti spamu. |
 
-- *NS* [23 Cdo 1840/2021](judikatura/NS-23-Cdo-1840-2021.md) — 8. 6. 2022, kat. A, Autorské právo
+- *NS* [23 Cdo 1840/2021](judikatura/NS-23-Cdo-1840-2021.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument)) — 8. 6. 2022, kat. A, Autorské právo
   > „Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení autora (či jiné oprávněné osoby) o autorskoprávní neoprávněnosti takového zpřístupnění"
-- *NSS* [9 A 66/2019 - 92](judikatura/NSS-9-A-66-2019-92.md) — rozsudek, 13. 10. 2021
+- *NSS* [9 A 66/2019 - 92](judikatura/NSS-9-A-66-2019-92.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675802)) — rozsudek, 13. 10. 2021
   > „odpovědnost šiřitele obchodních sdělení za nedodržení povinností vztahujících se k šíření obchodních sdělení elektronickými prostředky, spojená s důkazním břemenem dodržení těchto povinností prokázat předchozí souhlas"
 
 ## Domněnky a fikce
@@ -101,7 +107,7 @@ Na rozdíl od domněnky, která připouští úvahu o (ne)existenci skutečnosti
 
 | Ustanovení | Normativní výraz | Znění (fragment) | Význam |
 |---|---|---|---|
-| § 12 odst. 2 | hledí jako na | „Na příjmy z pokut uložených orgánem příslušným k výkonu dozoru podle § 10 odst. 1 písm. b) se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu" | Právní fikce: na příjmy z pokut uložených profesní komorou se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu. |
+| [§ 12 odst. 2](https://e-sbirka.gov.cz/sb/2004/480#par_12) | hledí jako na | „Na příjmy z pokut uložených orgánem příslušným k výkonu dozoru podle § 10 odst. 1 písm. b) se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu" | Právní fikce: na příjmy z pokut uložených profesní komorou se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu. |
 
 ## Modality v systému předpisu
 
@@ -109,7 +115,7 @@ Klíčové instituty ZSIS se opírají o **kombinaci** několika modalit, které
 
 **Vznik povinnosti a její sankce.** Povinnost poskytovatele hostingu neprodleně zakročit (§ 5 odst. 1 písm. b), povinnost) je párována se zákazovou skutkovou podstatou přestupku spamu (§ 11 odst. 1, zákaz) a s procesním oprávněním providera žalovat jménem zákazníků (§ 11a, oprávnění). Porušení povinnosti se stává předmětem dozoru a sankce; sankční příjmy pak fiskálně vstřebává fikce § 12 odst. 2. Judikatura přitom vymezuje hranici imunity: safe harbour se neprosadí, přispívá-li poskytovatel svou činností k protiprávnímu zpřístupnění.
 
-- *NS* [23 Cdo 2793/2020](judikatura/NS-23-Cdo-2793-2020.md) — 31. 8. 2021, kat. A, Nekalá soutěž
+- *NS* [23 Cdo 2793/2020](judikatura/NS-23-Cdo-2793-2020.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/833F4A8DFC84436EC125879F001E37FA?openDocument)) — 31. 8. 2021, kat. A, Nekalá soutěž
   > „Právní úprava omezení odpovědnosti poskytovatele služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) podle § 5 odst. 1 zákona o některých službách informační společnosti se neprosadí při posouzení takových soukromých závazků z deliktu nekalé soutěže, jež nevyplývají z odpovědnosti tohoto poskytovatele za obsah informace uložené na žádost uživatele"
 
 **Podmíněná dovolení.** Užití elektronického kontaktu je dovoleno jen se souhlasem (§ 7 odst. 2, dovolení „lze pouze … kteří dali souhlas"), zatímco poskytovatelé nejsou povinni obecně monitorovat obsah (§ 6, dovolení „nejsou povinni"). Obě dovolení jsou zrcadlem povinností v § 5 a § 7: co není dovoleno bez podmínky, je při jejím nesplnění zakázáno a trestáno.
